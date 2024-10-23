@@ -1,0 +1,16 @@
+{
+  "to": "ignacio.serrano@ufv.es",
+  "subject": "Hello world json",
+  "text": "Hello world",
+  "html": "<b>Hello world</b>",
+  "attachments": [
+    {
+      "filename": "text1.txt",
+      "path": "/path/to/file.txt"
+    },
+    {
+      "filename": "text2.txt",
+      "path": "/path/to/file.txt"
+    }
+  ]
+}

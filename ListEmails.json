@@ -1,0 +1,66 @@
+[
+  {
+    "to": "ignacio.serrano@ufv.es",
+    "subject": "Hello world json",
+    "text": "Hello world",
+    "html": "<b>Hello world</b>",
+    "attachments": [
+      {
+        "file_name": "text1.txt",
+        "path": "/path/to/file.txt"
+      },
+      {
+        "file_name": "text2.txt",
+        "path": "/path/to/file.txt"
+      }
+    ]
+  },
+  {
+    "to": "nacho.serrano@ufv.es",
+    "subject": "Hello world json",
+    "text": "Hello world",
+    "html": "<b>Hello world</b>",
+    "attachments": [
+      {
+        "file_name": "text1.txt",
+        "path": "/path/to/file.txt"
+      },
+      {
+        "file_name": "text2.txt",
+        "path": "/path/to/file.txt"
+      }
+    ]
+  },
+  {
+    "to": "luis.serrano@ufv.es",
+    "subject": "Hello world json",
+    "text": "Hello world",
+    "html": "<b>Hello world</b>",
+    "attachments": [
+      {
+        "file_name": "text1.txt",
+        "path": "/path/to/file.txt"
+      },
+      {
+        "file_name": "text2.txt",
+        "path": "/path/to/file.txt"
+      }
+    ]
+  },
+  {
+    "to": "nacholu.serrano@ufv.es",
+    "subject": "Hello world json",
+    "text": "Hello world",
+    "html": "<b>Hello world</b>",
+    "attachments": [
+      {
+        "file_name": "text1.txt",
+        "path": "/path/to/file.txt"
+      },
+      {
+        "file_name": "text2.txt",
+        "path": "/path/to/file.txt"
+      }
+    ]
+  }
+]
